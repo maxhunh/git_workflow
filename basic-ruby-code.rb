@@ -1,1 +1,1 @@
-puts "abcd"
+pu "abcd"
